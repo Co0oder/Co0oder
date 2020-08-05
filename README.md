@@ -11,6 +11,7 @@
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg">][instagram]
 
 <br />
+<br />
 
 <img
     align = "left"
