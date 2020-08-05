@@ -11,7 +11,7 @@
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg">][instagram]
 
 <br />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cooder&theme=dark&show_icons=true)
 
 <img
     align = "left"
