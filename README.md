@@ -11,12 +11,11 @@
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg">][instagram]
 
 <br />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cooder&theme=dark&show_icons=true)
 
 <img
     align = "left"
     alt="Co0oder's Github Stats"
-    src="https://github-stats.vercel.app/api?username=Co0oder&show_icons=true&hide_border=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Cooder&theme=dark&show_icons=true"
 />
 
 <br />
