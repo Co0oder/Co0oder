@@ -9,6 +9,9 @@
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg">][linkedin]
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174848.svg">][facebook]
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg">][instagram]
+
+<br />
+
 <img
     align = "left"
     alt="Co0oder's Github Stats"
