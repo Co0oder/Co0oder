@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at the Vinnytsia IT Academy
+- 🔭 I’m currently studying at the [Vinnytsia IT Academy][https://intita.com]!
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: braik978@gmail.com
 - ⚡ Fun fact: I love to play guitar
