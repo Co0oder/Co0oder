@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently studying at the Vinnytsia IT Academy
-🌱 I’m currently learning Node.js
-📫 How to reach me: braik978@gmail.com
-⚡ Fun fact: I love to play guitar
+- 🔭 I’m currently studying at the Vinnytsia IT Academy
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me: braik978@gmail.com
+- ⚡ Fun fact: I love to play guitar
 
 <img
     align = "left"
