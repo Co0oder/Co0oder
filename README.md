@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
+
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg">][linkedin]
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174848.svg">][facebook]
 [<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg">][instagram]
@@ -15,11 +16,8 @@
 <img
     align = "left"
     alt="Co0oder's Github Stats"
-    src="https://github-stats.vercel.app/api?username=Co0oder&show_icons=true&hide_border=true"
+    src="https://github-stats.vercel.app/api?theme=nord&username=Co0oder&show_icons=true&hide_border=true"
 />
-
-<br />
-<br />
 
 [intita]: https://intita.com
 [linkedin]: https://www.linkedin.com/in/bohdan-puhach-3000ab1a4/
