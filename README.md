@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play guitar
 -->
 
-[intita] = https://intita.com
+[intita]: https://intita.com
 
