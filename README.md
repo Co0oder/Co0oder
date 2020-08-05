@@ -8,7 +8,7 @@
 <img
     align = "left"
     alt="Co0oder's Github Stats"
-    src="https://github-stats.vercel.app/api&username=Co0oder&show_icons=true&hide_border=true"
+    src="https://github-stats.vercel.app/api?username=Co0oder&show_icons=true&hide_border=true"
 />
 
 <!--
