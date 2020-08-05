@@ -6,12 +6,15 @@
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
-<img width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg">
+<img width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg">[linkedin]
+<img width="26px" src="https://image.flaticon.com/icons/svg/174/174848.svg">[facebook]
+<img width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg">[instagram]
 <img
     align = "left"
     alt="Co0oder's Github Stats"
     src="https://github-stats.vercel.app/api?username=Co0oder&show_icons=true&hide_border=true"
 />
+
 <br />
 <br />
 
