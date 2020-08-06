@@ -16,7 +16,7 @@
 <img
     align = "left"
     alt="Co0oder's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Cooder&theme=dark&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=Co0oder&theme=dark&show_icons=true"
 />
 
 <br />
