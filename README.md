@@ -18,14 +18,8 @@ Co0oder
 
 
 
-<img
-    align = "left"
-    alt="Co0oder's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Co0oder&theme=dark&show_icons=true"
-/>
+![](https://github-readme-stats.vercel.app/api?username=Co0oder&theme=dark&show_icons=true)
 
-<br>
-<br>
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
